@@ -1,2 +1,2 @@
 # aws-project
-aws ana ci/cd
+aws  ci/cd
